@@ -11,12 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Friedrich-Alexander-Universität Erlangen-Nürnberg, FAU
+* B.Tech. in Computer Science, National Institute of Technology(NIT), Srinagar.
 
 Work experience
 ======
+* Oct 2023 – May 2024: Research Assistant
+  * Friedrich-Alexander-Universität Erlangen-Nürnberg
+  * Duties include: 
+    •Implemented cutting-edge learning algorithms such as RNNs for spiking neural networks, enhancing model performance, and contributing to the field of neuromorphic computing.
+    •Developed spiking neural network models in PyTorch and Lava-dl to simulate Drosophila larva behavior.
+    •Collaborated on a multidisciplinary project, applying novel computational approaches to streamline experiments on Drosophila, improving speed, simplicity, and cost-effectiveness.
+    
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
