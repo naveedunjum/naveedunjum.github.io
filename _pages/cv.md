@@ -33,53 +33,20 @@ Work experience
   * Creation and maintenance of dashboards in PowerBI and Palatir Imagine for use in different production settings.
 
 * May 2022 – Nov 2022: Research Assistant at Philipps University Marburg
-*   Tailored various state-of-the-art deep learning methods like transformers and Generative Adversarial Networks(GANs) for multimodal generation tasks on art datasets.
-*   Researched and implemented cutting-edge Diffusion models and VQGAN+CLIP architectures, leading to over 10% performance improvement in image-text retrieval tasks.
-*   Preprocessed and structured image metadata (XML parsing, cleaning, formatting) to optimize retrieval methods.
+  *   Tailored various state-of-the-art deep learning methods like transformers and Generative Adversarial Networks(GANs) for multimodal generation tasks on art datasets.
+  *   Researched and implemented cutting-edge Diffusion models and VQGAN+CLIP architectures, leading to over 10% performance improvement in image-text retrieval tasks.
+  *   Preprocessed and structured image metadata (XML parsing, cleaning, formatting) to optimize retrieval methods.
   
 Skills
 ======
-* Programming Languages
-  * Python
-  * C
-  * C++
-  * Bash
-  * SAS (Base and Macros)
-* Machine Learning Libraries
-  * PyTorch
-  * Tensorflow
-  * Keras
-  * Spark
-  * Scikit-Learn
-  * PySpark
-  * Scipy
-* Cloud Stack
-  * Amazon Web Services (AWS)
-  * Azure
-* Frameworks and Tools
-  * Terraform
-  * Git
-  * Docker
-  * Django
-  * Gradio
-  * LangChain
-  * Scrum
-* Technologies
-  * Machine Learning
-  * Deep Learning
-  * Classification
-  * Clustering
-  * Time Series Prediction
-  * Natural Language Processing
-* Database Systems
-  * SQL
-  * MongoDB (NoSQL)
-* Visualization Tools
-  * PowerBI
-  * Tableau
-* Operating System
-  * Linux
-  * Windows
+* Programming Languages: Python, C, C++, Bash, SAS (Base and Macros)
+* Machine Learning Libraries: PyTorch, Tensorflow, Keras, Spark, Scikit-Learn, PySpark,Scipy
+* Cloud Stack: Amazon Web Services (AWS), Azure
+* Frameworks and Tools: Terraform, Git, Docker, Django, Gradio, LangChain, Scrum
+* Technologies: Machine Learning, Deep Learning, Classification, Clustering, Time Series Prediction, Natural Language Processing
+* Database Systems: SQL, MongoDB (NoSQL)
+* Visualization Tools: PowerBI, Tableau
+* Operating System: Linux, Windows
 
 Publications
 ======
@@ -93,12 +60,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
