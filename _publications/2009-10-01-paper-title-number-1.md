@@ -1,9 +1,9 @@
 ---
 title: "Comparing (mostly) simple multilingual approaches to narrative classification"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Upcoming Works'
+excerpt: 'Upcoming Work'
 date: 2025-07-27
 venue: 'Vienna'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
