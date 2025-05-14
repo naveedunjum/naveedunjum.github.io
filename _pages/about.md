@@ -1,12 +1,15 @@
+
+
 ---
 permalink: /
-title: "Website under Development"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Homepage: More info and updates should be soon updated. 
+
+I work as a research assistant at Computational Linguistics Department, FAU, exploring how computers and language interact. Previously I completed my M.Sc from FAU Erlangen-Nuremberg in Data Science.
+For more info, please visit: [https://www.linguistik.phil.fau.de/](https://www.linguistik.phil.fau.de/)
 
 ## News
 <table class="twoColumnTable">
