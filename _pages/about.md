@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 I work as a research assistant in Computational Linguistics, exploring how computers and language interact. Previously, I completed my M.Sc from FAU, Erlangen Nuremberg, in Data Science. 
-For more info, please check my [CV](/cv/)
+For more info, please check my [CV](https://naveedunjum.github.io/cv/)
 
 
 [Department website](https://www.linguistik.phil.fau.de/)
